@@ -418,7 +418,6 @@ section {
 article {
     display: flex;
     width: 10rem;
-    padding: .5rem;
     justify-content: space-around;
     gap: 0.5rem;
 }
