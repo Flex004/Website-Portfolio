@@ -209,6 +209,10 @@ section {
 }
 
 /* PROFILE SECTION */
+.text-container p {
+    color: white; /* Change this to any color you prefer */
+}
+
 
 #profile img {
     border-radius: 50%;
